@@ -1,5 +1,5 @@
 # pesstatsdatabase-API
-###### PHP parser for pesstatsdatabase.com which exposes simple to use, GET api
+###### PHP wrapper for pesstatsdatabase.com which exposes simple to use, GET api
 \
 This version is hosted at heroku (free account, so please be gentle with the usage)
 **[HERE: pesstatsdatabasedapi.herokuapp.com/index.php](https://pesstatsdatabasedapi.herokuapp.com/index.php)**
